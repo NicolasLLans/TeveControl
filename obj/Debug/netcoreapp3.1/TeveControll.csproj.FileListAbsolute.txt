@@ -1,0 +1,14 @@
+C:\Users\nicol\source\repos\TeveControll\bin\Debug\netcoreapp3.1\TeveControll.exe
+C:\Users\nicol\source\repos\TeveControll\bin\Debug\netcoreapp3.1\TeveControll.deps.json
+C:\Users\nicol\source\repos\TeveControll\bin\Debug\netcoreapp3.1\TeveControll.runtimeconfig.json
+C:\Users\nicol\source\repos\TeveControll\bin\Debug\netcoreapp3.1\TeveControll.runtimeconfig.dev.json
+C:\Users\nicol\source\repos\TeveControll\bin\Debug\netcoreapp3.1\TeveControll.dll
+C:\Users\nicol\source\repos\TeveControll\bin\Debug\netcoreapp3.1\TeveControll.pdb
+C:\Users\nicol\source\repos\TeveControll\obj\Debug\netcoreapp3.1\TeveControll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\source\repos\TeveControll\obj\Debug\netcoreapp3.1\TeveControll.AssemblyInfoInputs.cache
+C:\Users\nicol\source\repos\TeveControll\obj\Debug\netcoreapp3.1\TeveControll.AssemblyInfo.cs
+C:\Users\nicol\source\repos\TeveControll\obj\Debug\netcoreapp3.1\TeveControll.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\TeveControll\obj\Debug\netcoreapp3.1\TeveControll.sourcelink.json
+C:\Users\nicol\source\repos\TeveControll\obj\Debug\netcoreapp3.1\TeveControll.dll
+C:\Users\nicol\source\repos\TeveControll\obj\Debug\netcoreapp3.1\TeveControll.pdb
+C:\Users\nicol\source\repos\TeveControll\obj\Debug\netcoreapp3.1\TeveControll.genruntimeconfig.cache
